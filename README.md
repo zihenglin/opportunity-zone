@@ -20,9 +20,11 @@ A few important things:
 
 ## Opportunity Zone Oakland
 
+![Image](oakland.png)
 
 ## Opportunity Zone San Jose
 
+![Image](sanjose.png)
 
 ## Resources
 
@@ -35,3 +37,5 @@ A few important things:
 [Opportunity Zone Oakland](https://www.oaklandca.gov/resources/designated-opportunity-zones)
 
 [Opportunity Zone San Jose](http://vtaorgcontent.s3-us-west-1.amazonaws.com/Site_Content/OZone-OED-Prospectus-020419.pdf)
+
+[List of Opportunity Zones in xlsx](https://www.cdfifund.gov/Documents/Designated%20QOZs.12.14.18.xlsx)
