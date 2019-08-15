@@ -18,6 +18,11 @@ A few important things:
 * If the tangible property ceases to be qualified Opportunity Zone business property, then it will continue to be treated as qualified Opportunity Zone business property for the lesser of 1) Five years after the date on which it ceased to be qualified or 2) the date on which it is no longer held by the qualified Opportunity Zone business.
 
 
+## Opportunity Zone Oakland
+
+
+## Opportunity Zone San Jose
+
 
 ## Resources
 
@@ -27,4 +32,6 @@ A few important things:
 
 [IRS Opportunity Zone FAQ](https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions)
 
-[Opportunity Zone Oakland](https://www.irs.gov/newsroom/opportunity-zones-frequently-asked-questions)
+[Opportunity Zone Oakland](https://www.oaklandca.gov/resources/designated-opportunity-zones)
+
+[Opportunity Zone San Jose](http://vtaorgcontent.s3-us-west-1.amazonaws.com/Site_Content/OZone-OED-Prospectus-020419.pdf)
