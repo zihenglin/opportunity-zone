@@ -47,3 +47,5 @@ A few important things:
 [Opportunity Zone San Jose](http://vtaorgcontent.s3-us-west-1.amazonaws.com/Site_Content/OZone-OED-Prospectus-020419.pdf)
 
 [List of Opportunity Zones in xlsx](https://www.cdfifund.gov/Documents/Designated%20QOZs.12.14.18.xlsx)
+
+[Opportunity Zone 2nd Revision Details](https://www.thetaxadviser.com/issues/2019/aug/second-round-opportunity-zone-regulations.html)
